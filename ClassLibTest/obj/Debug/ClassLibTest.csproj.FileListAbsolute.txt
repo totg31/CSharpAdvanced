@@ -1,0 +1,6 @@
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\ClassLibTest\bin\Debug\ClassLibTest.dll
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\ClassLibTest\bin\Debug\ClassLibTest.pdb
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\ClassLibTest\obj\Debug\ClassLibTest.csproj.AssemblyReference.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\ClassLibTest\obj\Debug\ClassLibTest.csproj.CoreCompileInputs.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\ClassLibTest\obj\Debug\ClassLibTest.dll
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\ClassLibTest\obj\Debug\ClassLibTest.pdb

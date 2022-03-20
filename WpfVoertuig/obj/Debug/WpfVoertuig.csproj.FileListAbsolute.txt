@@ -1,0 +1,15 @@
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\bin\Debug\WpfVoertuig.exe.config
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\bin\Debug\WpfVoertuig.exe
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\bin\Debug\WpfVoertuig.pdb
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\WpfVoertuig.csproj.AssemblyReference.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\MainWindow.g.cs
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\App.g.cs
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\WpfVoertuig_MarkupCompile.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\WpfVoertuig_MarkupCompile.lref
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\MainWindow.baml
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\WpfVoertuig.g.resources
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\WpfVoertuig.Properties.Resources.resources
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\WpfVoertuig.csproj.GenerateResource.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\WpfVoertuig.csproj.CoreCompileInputs.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\WpfVoertuig.exe
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfVoertuig\obj\Debug\WpfVoertuig.pdb

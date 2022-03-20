@@ -1,0 +1,15 @@
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\bin\Debug\WpfStreamReaderTest.exe.config
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\bin\Debug\WpfStreamReaderTest.exe
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\bin\Debug\WpfStreamReaderTest.pdb
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\WpfStreamReaderTest.csproj.AssemblyReference.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\MainWindow.g.cs
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\App.g.cs
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\WpfStreamReaderTest_MarkupCompile.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\WpfStreamReaderTest_MarkupCompile.lref
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\MainWindow.baml
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\WpfStreamReaderTest.g.resources
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\WpfStreamReaderTest.Properties.Resources.resources
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\WpfStreamReaderTest.csproj.GenerateResource.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\WpfStreamReaderTest.csproj.CoreCompileInputs.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\WpfStreamReaderTest.exe
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\WpfStreamReaderTest\obj\Debug\WpfStreamReaderTest.pdb

@@ -1,0 +1,24 @@
+﻿<Window x:Class="Oefening16.WpfPersoon"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening16"
+        mc:Ignorable="d"
+        Title="WpfPersoon" Height="300" Width="350">
+    <StackPanel HorizontalAlignment="Center" Margin="18.247,0,54,0">
+        <WrapPanel Margin="5">
+            <Label Content="Voornaam" Width="100"></Label>
+            <TextBox Name="TxtVoornaam" Width="125"></TextBox>
+        </WrapPanel>
+        <WrapPanel Margin="5">
+            <Label Content="Naam" Width="100"></Label>
+            <TextBox Name="TxtNaam" Width="125"></TextBox>
+        </WrapPanel>
+        <WrapPanel Margin="5">
+            <Label Content="Geboorte datum" Width="150"></Label>
+            <DatePicker Name="DtmGeboorteDatum" Width="125"></DatePicker>
+        </WrapPanel>
+        <Button Content="Toevoegen" Width="125" Click="Button_Click"></Button>
+    </StackPanel>
+</Window>

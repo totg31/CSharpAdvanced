@@ -1,0 +1,22 @@
+﻿<Window x:Class="Toepassing081.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toepassing081"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="250">
+    <Grid>
+        <StackPanel Background="Gray">
+            <Button x:Name="BtnLezen" Click="BtnLezen_Click" Content="Lezen waarde teller" Margin="20 30 20 5" />
+            <Button x:Name="BtnVerhoog" Click="BtnVerhoog_Click" Content="Verhoog teller met 1" Margin="20 5" />
+            <Button x:Name="BtnVerlaag" Click="BtnVerlaag_Click" Content="Verminder teller met 1" Margin="20 5" />
+            <Button x:Name="BtnReset" Click="BtnReset_Click" Content="Resetten teller naar 0" Margin="20 5" />
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="BtnWaarde" Click="BtnWaarde_Click" Content="Verhoog teller met" Margin="20 5" Width="150" />
+                <TextBox x:Name="TxtWaarde" Margin="5" Width="25" Background="Gray" BorderBrush="white"/>
+            </StackPanel>
+            <Button x:Name="BtnEinde" Click="BtnEinde_Click" Content="Einde" Margin="20 30" />
+        </StackPanel>
+    </Grid>
+</Window>

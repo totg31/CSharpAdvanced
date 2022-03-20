@@ -1,0 +1,15 @@
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\bin\Debug\Toepassing01.exe.config
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\bin\Debug\Toepassing01.exe
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\bin\Debug\Toepassing01.pdb
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\Toepassing01.csproj.AssemblyReference.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\MainWindow.g.cs
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\App.g.cs
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\Toepassing01_MarkupCompile.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\Toepassing01_MarkupCompile.lref
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\MainWindow.baml
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\Toepassing01.g.resources
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\Toepassing01.Properties.Resources.resources
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\Toepassing01.csproj.GenerateResource.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\Toepassing01.csproj.CoreCompileInputs.cache
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\Toepassing01.exe
+C:\Users\omer_\source\repos\CSharp_Advanced_Tweede_Zit\Toepassing01\obj\Debug\Toepassing01.pdb

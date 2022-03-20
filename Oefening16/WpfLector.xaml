@@ -1,0 +1,20 @@
+﻿<Window x:Class="Oefening16.WpfLector"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening16"
+        mc:Ignorable="d"
+        Title="WpfLector" Height="250" Width="400">
+    <StackPanel HorizontalAlignment="Center">
+        <WrapPanel Margin="5 10">
+            <Label Content="In Dienst"></Label>
+            <DatePicker Name="DtmInDienst"></DatePicker>
+        </WrapPanel>
+        <WrapPanel Margin="5 10">
+            <Label Content="Afdeling" ></Label>
+            <TextBox x:Name="TxtAfdeling" Width="100" Margin="5 0"></TextBox>
+        </WrapPanel>
+        <Button x:Name="BtnToevoegen" Content="Voeg Toe" Width="100" Margin="0 20" Click="BtnToevoegen_Click"></Button>
+    </StackPanel>
+</Window>
